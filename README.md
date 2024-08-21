@@ -1,4 +1,4 @@
-# California Housing Prices
+# California Housing Prices (Python Code Created and Executed in Jupyter Notebook)
 
 ## Project Description
 This project aims to predict the median house values in California using various machine learning models. The dataset contains information about census blocks in California, including features such as longitude, latitude, median age, total rooms, bedrooms, population, households, median income, and ocean proximity.
