@@ -26,8 +26,7 @@ The dataset includes the following features:
 ## Data Cleaning
 The dataset was cleaned by:
 1. Dropping all null values.
-2. Eliminating outliers for the `population` feature.
-3. 
+2. Eliminating outliers for features including the `population` feature.
 
 ## Exploratory Data Analysis
 1. Analyzed the distribution of the `median_house_value` feature using histograms.
